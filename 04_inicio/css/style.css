@@ -1,5 +1,18 @@
 h1,p {/* display: inline; */}
 strong{
-    font-weight: normal; display: block
-    
+    font-weight: normal; display: block,
+    font-size: 3em;  
+}
+
+blockquote {
+
+ font-style: italic;
+ font-size: 2rem;
+
+ <footer> 
+margin-top: 0.5rem;
+padding-top: 0.3rem;
+
+border-bottom: 7px solid green;
+border-top: 7px solid green;
 }
